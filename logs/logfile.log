@@ -1,0 +1,10 @@
+INFO  2022-05-31 20:38:43 [main] Main (Main.java:29) - Error: error
+DEBUG 2022-05-31 20:38:43 [main] Main (Main.java:30) - Error: {}
+ERROR 2022-05-31 20:38:43 [main] Main (Main.java:31) - Error: error
+INFO  2022-05-31 20:39:51 [main] Main (Main.java:29) - Error: error
+DEBUG 2022-05-31 20:39:51 [main] Main (Main.java:30) - Error: {}
+ERROR 2022-05-31 20:39:51 [main] Main (Main.java:31) - Error: 
+INFO  2022-05-31 20:40:04 [main] Main (Main.java:29) - Error: error
+DEBUG 2022-05-31 20:40:04 [main] Main (Main.java:30) - Error: {}
+ERROR 2022-05-31 20:40:04 [main] Main (Main.java:31) - Error: error1
+ERROR 2022-05-31 21:06:29 [main] Main (Main.java:35) - Error: EEE
